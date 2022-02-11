@@ -1,4 +1,5 @@
 **SKIN CANCER CLASSIFICATION NOTEBOOK INSTRUCTIONS**
+
 by Arawinkumaar Selvakkumar
 
 #1: Go to Google Colab and import the notebook (IFN712_Skin_Cancer_classification.ipynb) from the zip folder.
